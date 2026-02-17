@@ -1,8 +1,6 @@
 <template>
-  <div>
     <!-- Top Navbar -->
     <Navbar></Navbar>
-
     <div class="d-flex">
       <!-- Sidebar -->
       <Sidebar></Sidebar>
@@ -48,7 +46,6 @@
         </div>
       </div>
     </div>
-</div>
 
 </template>
 
